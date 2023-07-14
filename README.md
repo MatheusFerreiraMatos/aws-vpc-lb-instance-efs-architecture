@@ -1,0 +1,1 @@
+# aws-vpc-lb-instance-efs-architecture
