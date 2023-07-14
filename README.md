@@ -1,3 +1,3 @@
 # AWS Architecture
 
-![Arquitetura](./main-architecture.png)
+![Arquitetura](./readme/main-architecture.png)
