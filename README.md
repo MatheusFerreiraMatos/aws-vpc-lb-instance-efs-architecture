@@ -1,1 +1,3 @@
-# aws-vpc-lb-instance-efs-architecture
+# AWS Architecture
+
+![Arquitetura](./main-architecture.png)
