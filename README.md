@@ -1,3 +1,3 @@
 # AWS Architecture - High Availability Application
 
-![Arquitetura](./readme/main-architecture.png)
+![Arquitetura](./readme/01-main-architecture.png)
